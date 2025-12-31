@@ -1,4 +1,4 @@
-![Alt text](complynt.jpg)
+
 
 https://github.com/GokulLD/portfolio/raw/refs/heads/main/financial%20model.xlsx
 
