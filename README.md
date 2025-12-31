@@ -1,4 +1,4 @@
-https://github.com/GokulLD/Complynt_New-Venture-Capstone-Project/blob/15d4bf1dadc7fc30a33dd0bcedef7537324e7d72/complynt.jpg
+https://github.com/GokulLD/Complynt_New-Venture-Capstone-Project/blob/15d4bf1dadc7fc30a33dd0bcedef7537324e7d72/complynt.JPG
 
 https://github.com/GokulLD/portfolio/raw/refs/heads/main/financial%20model.xlsx
 
