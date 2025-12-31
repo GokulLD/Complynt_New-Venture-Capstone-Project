@@ -1,4 +1,4 @@
-![Alt Text](complynt.JPG)
+![Alt Text](complynt.jpg)
 
 https://github.com/GokulLD/portfolio/raw/refs/heads/main/financial%20model.xlsx     <-- Copy and paste this URL in the browser's address bar to view/download file
 
