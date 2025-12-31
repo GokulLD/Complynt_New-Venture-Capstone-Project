@@ -1,3 +1,5 @@
+![Alt text](images/complynt.jpg)
+
 https://github.com/GokulLD/portfolio/raw/refs/heads/main/financial%20model.xlsx
 
 This is the 3-statement financial model I built for my New Venture Capstone Project - 'Complynt'. The model forecasts three possible scenarios, and tries to predict the free cash flow and capital requirements in each case.
